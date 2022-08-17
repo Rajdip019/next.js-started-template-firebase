@@ -17,7 +17,7 @@ const Home: NextPage = () => {
             <p className='my-2'>2. Tailwind CSS</p>
             <p className='my-2'>3. Material UI</p>
             <p className='my-2'>4. Material Icons</p>
-            <p className='my-2'>5. Firebase</p>
+            <p className='my-2'>5. Firebase - firestore, storage, auth with google</p>
             <p className='my-2'>6. Babel configured</p>
           </div>
         </div>
